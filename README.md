@@ -49,8 +49,6 @@ an Excel dashboard.
 -   **Average Duration:** 110 minutes
 -   **Total Genres:** 23
 
-*Metrics are based on the current version of the workbook and should be
-checked against the final analysis before publication.*
 
 ## Key Analysis Areas
 
